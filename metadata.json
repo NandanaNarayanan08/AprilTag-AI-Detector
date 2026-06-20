@@ -1,0 +1,1 @@
+{"name":"AprilTag AI Detector","description":"Advanced companion for real-time AprilTag computer vision tracking, 3D pose estimation, and Gemini AI-powered robotics learning.","requestFramePermissions":["camera"],"majorCapabilities":["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}
