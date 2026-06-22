@@ -8,3 +8,6 @@ coverage/
 !.env.example
 node_modules/
 desktop.ini
+.antigravity
+.vscode
+android-project
